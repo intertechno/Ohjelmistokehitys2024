@@ -32,3 +32,6 @@
 /DotNet/XmlToCsvConversion/XmlToCsvConversion/obj
 /JavaScript/node_modules
 /Python/FlaskSqlTietoturva/__pycache__
+/DotNet/AspNetMvcTesti/.vs
+/DotNet/AspNetMvcTesti/AspNetMvcTesti/bin/Debug/net8.0
+/DotNet/AspNetMvcTesti/AspNetMvcTesti/obj
